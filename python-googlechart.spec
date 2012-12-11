@@ -37,3 +37,11 @@ rm -rf $RPM_BUILD_ROOT
 %clean
 rm -rf $RPM_BUILD_ROOT
 
+
+
+%changelog
+* Mon Nov 01 2010 Nicolas Lécureuil <nlecureuil@mandriva.com> 0.2.1-1mdv2011.0
++ Revision: 591665
+- Fix Group
+- import python-googlechart
+
