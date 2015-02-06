@@ -1,7 +1,7 @@
 %define realname    pygooglechart
 %define name   python-googlechart
 %define version 0.2.1
-%define release %mkrel 1
+%define release 2
 
 Name:           %{name}
 Version:        %{version}
