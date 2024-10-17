@@ -9,7 +9,7 @@ Release:        %{release}
 Summary:        Python wrapper for the Google Chart API
 Group:          Development/Python
 License:        ASL 2.0
-URL:            http://south.aeracode.org
+URL:            https://south.aeracode.org
 Source:         %{realname}-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildArch:      noarch
